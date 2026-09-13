@@ -1,0 +1,195 @@
+{
+  "data": {
+    "crInformation": {
+      "isRestricted": false,
+      "crNationalNumber": "7041919098",
+      "crNumber": "4650280056",
+      "encryptedCrNumber": "UVlVRmNXNHU0UXlzUEJFeUlvTXBPZz09",
+      "ownerNameAr": "محمد مصلح عمير السراني",
+      "ownerNameEn": "MUHAMMAD MUSLEH OMAIR ALSARRANI",
+      "ownerIdentifierNumber": "1032879130",
+      "ownerIdentifierTypeNameAr": "هوية وطنية",
+      "ownerIdentifierTypeNameEn": "National ID",
+      "versionNo": 4,
+      "entityFullNameAr": "مؤسسة المقطورة الاحترافية للتجارة",
+      "entityFullNameEn": "almaqtoora alihtirafiya Establishment For Trading",
+      "capital": 10000,
+      "companyDuration": null,
+      "isMain": false,
+      "mainCRNationalNumber": "7037857120",
+      "mainCRNumber": "4030540837",
+      "isLicenseBased": false,
+      "inLiquidationProcess": false,
+      "hasEcommerce": false,
+      "isListed": false,
+      "entityNameLang": {
+        "entityNameLangID": 1,
+        "entityNameLangDescAr": "اللغة العربية",
+        "entityNameLangDescEn": "Arabic Language"
+      },
+      "entityType": {
+        "entityTypeID": 2,
+        "entityTypeDescAr": "مؤسسة",
+        "entityTypeDescEn": "Establishment"
+      },
+      "capitalCurrency": {
+        "capitalCurrencyID": 1,
+        "capitalCurrencyDescAr": "ريال سعودي",
+        "capitalCurrencyDescEn": "Saudi Riyal"
+      },
+      "companyForm": null,
+      "companyCharacterList": [],
+      "partnersNationality": {
+        "partnersNationalityID": 1,
+        "partnersNationalityDescAr": "سعودية",
+        "partnersNationalityDescEn": "Saudi"
+      },
+      "lastModificationDate": {
+        "lastModificationDateGregorian": "2026-01-09",
+        "lastModificationDateHijri": "20-07-1447"
+      },
+      "crIssueDate": {
+        "crIssueDateGregorian": "2024-09-30",
+        "crIssueDateHijri": "27-03-1446"
+      },
+      "crConfirmDate": {
+        "crConfirmDateGregorian": "2026-09-30",
+        "crConfirmDateHijri": "19-04-1448"
+      },
+      "crStatus": {
+        "crStatusID": 1,
+        "crStatusDescAr": "نشط",
+        "crStatusDescEn": "Active"
+      },
+      "crDeleteDate": null,
+      "crDeleteReasons": []
+    },
+    "crActivities": {
+      "fullActivitiesText": null,
+      "activitiesType": {
+        "activitiesTypeID": "2",
+        "activitiesTypeDescriptionAr": "Isic",
+        "activitiesTypeDescriptionEn": "Isic"
+      },
+      "activityList": [
+        {
+          "activityID": "251210",
+          "activityDescriptionAr": "صناعة الصهاريج والخزانات",
+          "activityDescriptionEn": "Manufacture of tankers, reservoirs",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "259940",
+          "activityDescriptionAr": "صناعة الأوعية المعدنية المستخدمة في نقل وتعبئة السلع  يشمل  البراميل وحاويات النفايات والمخلفات والدلاء والصناديق والعلب  الخ",
+          "activityDescriptionEn": "Manufacture of metallic containers used in transporting and packaging commodities, including (barrels, garbage containers, buckets, boxes, cans .. etc.)",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "331914",
+          "activityDescriptionAr": "اصلاح وصيانة المنصات والحاويات المستخدمة في الشحن",
+          "activityDescriptionEn": "Repair and maintenance of freight pallets and containers",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "432240",
+          "activityDescriptionAr": "تركيب انظمة التبريد وتكييف الهواء وصيانتها واصلاحها",
+          "activityDescriptionEn": "Installation, maintenance and repair of refrigeration or air-conditioning equipment",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        },
+        {
+          "activityID": "521093",
+          "activityDescriptionAr": "المخازن العامة التي تضم مجموعة متنوعة من السلع",
+          "activityDescriptionEn": "Public storages with a variety of goods",
+          "isPreLicenseIssued": false,
+          "isPostLicenseIssued": false
+        }
+      ]
+    },
+    "entityAddress": {
+      "addressType": {
+        "addressTypeID": "1",
+        "addressTypeDescriptionAr": "عنوان وطني",
+        "addressTypeDescriptionEn": "National Address"
+      },
+      "nationalAddress": {
+        "city": {
+          "cityId": "14",
+          "cityNameAr": "المدينة المنورة",
+          "cityNameEn": "MADINAH"
+        },
+        "district": {
+          "districtId": "10300014092",
+          "districtNameAr": "حي الصناعية",
+          "districtNameEn": "Industrial Dist."
+        },
+        "streetNameAr": "قنان بن سفيان",
+        "streetNameEn": "Qanan Ibn Sufyan",
+        "buildingNo": "2354",
+        "unitNo": "1",
+        "postalCode": "42522",
+        "additionalNo": "8566"
+      },
+      "fullAddress": null
+    },
+    "capitalDetails": null,
+    "contactInformation": {
+      "phoneNo": "0148412220",
+      "mobileNo": "0556670299",
+      "email": "nrmest@hotmail.com",
+      "websiteURL": null
+    },
+    "mangmentInformation": {
+      "managementStructure": {
+        "managementStructureID": 6,
+        "managementStructureDescriptionAr": "مدير فأكثر",
+        "managementStructureDescriptionEn": "One or More Managers"
+      },
+      "managerList": [
+        {
+          "managerRef": "-",
+          "identifierTypeId": 1,
+          "identifierNumber": "-",
+          "nationalityId": 113,
+          "isLicensed": false,
+          "managerType": {
+            "managerTypeID": 1,
+            "managerTypeDescriptionAr": "فرد سعودي",
+            "managerTypeDescriptionEn": "Citizen"
+          },
+          "personInfo": {
+            "identifierNo": "-",
+            "titleAr": null,
+            "titleEn": null,
+            "firstNameAr": "محمد",
+            "fatherNameAr": "مصلح",
+            "grandFatherNameAr": "عمير",
+            "familyNameAr": "السراني",
+            "firstNameEn": "MUHAMMAD",
+            "fatherNameEn": "MUSLEH",
+            "grandFatherNameEn": "OMAIR",
+            "familyNameEn": "ALSARRANI",
+            "identifierType": {
+              "identifierTypeID": 1,
+              "identifierTypeDescAr": "هوية وطنية",
+              "identifierTypeDescEn": "National ID"
+            },
+            "nationality": {
+              "nationalityID": 113,
+              "nationalityDescriptionAr": "السعودية",
+              "nationalityDescriptionEn": "Saudi Arabia",
+              "isSaudi": true,
+              "isGulf": true
+            }
+          },
+          "managerPositionList": []
+        }
+      ]
+    },
+    "liquidatorList": []
+  },
+  "error": null
+}
