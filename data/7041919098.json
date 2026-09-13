@@ -57,9 +57,9 @@
         "crConfirmDateHijri": "19-04-1448"
       },
       "crStatus": {
-        "crStatusID": 1,
-        "crStatusDescAr": "نشط",
-        "crStatusDescEn": "Active"
+        "crStatusID": 2,
+        "crStatusDescAr": "معلق",
+        "crStatusDescEn": "Suspended"
       },
       "crDeleteDate": null,
       "crDeleteReasons": []
