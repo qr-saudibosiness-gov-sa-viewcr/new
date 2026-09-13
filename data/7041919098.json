@@ -186,6 +186,44 @@
             }
           },
           "managerPositionList": []
+        },
+        {
+          "managerRef": "-",
+          "identifierTypeId": 1,
+          "identifierNumber": "-",
+          "nationalityId": 113,
+          "isLicensed": false,
+          "managerType": {
+            "managerTypeID": 1,
+            "managerTypeDescriptionAr": "فرد سعودي",
+            "managerTypeDescriptionEn": "Citizen"
+          },
+          "personInfo": {
+            "identifierNo": "-",
+            "titleAr": null,
+            "titleEn": null,
+            "firstNameAr": "محمد",
+            "fatherNameAr": "مصلح",
+            "grandFatherNameAr": "عمير",
+            "familyNameAr": "السراني",
+            "firstNameEn": "MUHAMMAD",
+            "fatherNameEn": "MUSLEH",
+            "grandFatherNameEn": "OMAIR",
+            "familyNameEn": "ALSARRANI",
+            "identifierType": {
+              "identifierTypeID": 1,
+              "identifierTypeDescAr": "هوية وطنية",
+              "identifierTypeDescEn": "National ID"
+            },
+            "nationality": {
+              "nationalityID": 113,
+              "nationalityDescriptionAr": "السعودية",
+              "nationalityDescriptionEn": "Saudi Arabia",
+              "isSaudi": true,
+              "isGulf": true
+            }
+          },
+          "managerPositionList": []
         }
       ]
     },
